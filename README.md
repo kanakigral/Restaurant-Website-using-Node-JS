@@ -10,13 +10,13 @@ This project displays products dynamically, shows detailed product pages, and de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kanakigral/your-repo-name.git
+   git clone https://github.com/kanakigral/restaurant-website-using-node-js.git
    ```
 
 2. Go to the project folder:
 
    ```bash
-   cd your-repo-name
+   cd restaurant-website-using-node-js
    ```
 
 3. Run the server:
